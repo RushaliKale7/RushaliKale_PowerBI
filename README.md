@@ -5,7 +5,7 @@
 This Power BI dashboard is designed to analyze sales data in-depth. It provides actionable insights into key performance indicators such as sales, profit, quantity sold, discounts, and order trends. The visualizations are interactive and allow users to filter and compare data across time periods, products, and customer segments.
 
 
-## ✅ Features Implemented (Explained for Beginners)
+## ✅ Features Implemented 
 
 This dashboard was built based on specific requirements to help users interact with and understand sales data more effectively. Here's what it includes:
 
